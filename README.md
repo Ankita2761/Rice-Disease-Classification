@@ -1,1 +1,1 @@
-# Rice-Disease-Classification
+# Rice-Disease-Classification using CNN
