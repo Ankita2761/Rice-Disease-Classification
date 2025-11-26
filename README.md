@@ -74,12 +74,3 @@ We described how we used transfer learning to classify images of diseased and he
 1. [Santanu Phadikar et al.,“Rice diseases classification using feature selection and rule generation techniques,” Computers and Electronics in Agriculture, vol. 90, Jan. 2013.](https://www.sciencedirect.com/science/article/pii/S016816991200258X)
 
 
-## Contributing
-Are you a programmer, engineer or hobbyist who has a great idea for a new feature in this project? Maybe you have a good idea for a bug fix? Feel free to grab our code & schematics from Github and tinker with it. Don't forget to smash those ⭐️ & Pull Request buttons. [Contributor List](https://github.com/jonathanrjpereira/Rice-Disease-Classification/graphs/contributors)
-
-Made with ❤️ by [Jonathan Pereira](https://github.com/jonathanrjpereira)
-
-Banner Logo is Designed by [Freepik](https://www.freepik.com/) from [www.flaticon.com](www.flaticon.com)
-Original Dataset by Huy Minh Do on [Kaggle](https://www.kaggle.com/minhhuy2810/rice-diseases-image-dataset).
-
-[1]: https://www.sciencedirect.com/science/article/pii/S016816991200258X "Santanu Phadikar et al.,“Rice diseases classification using feature selection and rule generation techniques,” Computers and Electronics in Agriculture, vol. 90, Jan. 2013."
